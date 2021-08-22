@@ -21,7 +21,7 @@ if variable == str(variable1):
     score =+ 1
 else:
     print("wrong")    
-
+# int is a float and number int is a data 
 question = int(input("how many legs are you have?"))
 answer = 2
 
