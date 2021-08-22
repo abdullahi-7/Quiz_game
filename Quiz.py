@@ -81,7 +81,7 @@ else:
 
 book = int(input("four take away two?"))
 books = 2
-
+# book is a variable
 if book == books:
     score =+ 1
     print("incorrect")
