@@ -3,6 +3,7 @@ print("my name is Abdullahi.\nI use python to write it.\nwelcome to use it")
 
 quiz = input("do you want to play?").lower()
 quiz1 = "yes"
+# The quiz is a variable and is a job
 
 if quiz == quiz1:
     print("let start game")
