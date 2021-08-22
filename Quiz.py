@@ -35,7 +35,7 @@ else:
     print("wrong")    
 question1 = input("Three take away one?\nTwo or one ").lower()
 answer1 = "no"
-
+# answer is a variable
 if question1 == answer1:
     print("correct")
     score =+ 1
