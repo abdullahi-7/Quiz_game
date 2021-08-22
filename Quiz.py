@@ -85,6 +85,7 @@ else:
     print("correct")
 
 pen = input("itis cluody today?").capitalize()
+# capitalize a the first letter have a big letter
 pens = False
 
 if pen =! pens:
@@ -92,7 +93,7 @@ if pen =! pens:
 else:
     print("correct")
     score =+ 1
-
+# print is a you see a string
 print("you got " + str(score) + " marks")    
 print("you are done plese wait for 5...seconds")
 # time is a book and sleep is a chapter
