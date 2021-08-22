@@ -15,7 +15,7 @@ else:
 score = 0    
 variable = input("how many planets in the soler sistem?")
 variable1 = 8
-
+#str is a data
 if variable == str(variable1):
     print("correct")
     score =+ 1
