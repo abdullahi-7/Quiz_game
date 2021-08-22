@@ -10,7 +10,7 @@ if quiz == quiz1:
 else:
     print("you are done")    
     quit()
-
+# quit is stop something
 
 score = 0    
 variable = input("how many planets in the soler sistem?")
