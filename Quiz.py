@@ -16,6 +16,7 @@ else:
 
 #and score is a variable and  has a number the number is 0
 score = 0    
+# variable has a question thequestion is how many planetin the soler sistem?
 variable = input("how many planets in the soler sistem?")
 variable1 = 8
 #str is a data
@@ -44,7 +45,7 @@ else:
        
 legs = input("itis rainy today?").capitalize()
 leg = False
-#False is a boolean and nos
+#False is a boolean and no
 if legs == str(leg):
     print("correct")
     score =+ 1
