@@ -68,7 +68,7 @@ else:
 
 shop = input("you want milk?")
 shoping = "yes"
-
+# if is
 if shop == shoping:
     score = score + 1
     print("you correct")
@@ -95,5 +95,5 @@ else:
 
 print("you got " + str(score) + " marks")    
 print("you are done plese wait for 5...seconds")
-
+# time is a book and sleep is a chapter
 time.sleep(5)
