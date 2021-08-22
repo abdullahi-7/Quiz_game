@@ -3,6 +3,7 @@ import time
 print("my name is Abdullahi.\nI use python to write it.\nwelcome to use it")
 
 quiz = input("do you want to play?").lower()
+# lower is all letter has small letter
 quiz1 = "yes"
 # The quiz is a variable and is a job
 
@@ -26,7 +27,7 @@ else:
 # int is a float and number int is a data 
 question = int(input("how many legs are you have?"))
 answer = 2
-
+# question is a variable
 if question == answer:
     print("correct")
     score =+ 1
@@ -43,7 +44,7 @@ else:
        
 legs = input("itis rainy today?").capitalize()
 leg = False
-
+#False is a boolean and nos
 if legs == str(leg):
     print("correct")
     score =+ 1
@@ -52,7 +53,7 @@ else:
     
 playing = input("itis sunny today?").capitalize()
 play = True
-
+# True is a boolean and yes
 if playing == str(play):
     print("correct")
     score =+ 1
