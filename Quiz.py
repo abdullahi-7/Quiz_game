@@ -13,6 +13,7 @@ else:
     quit()
 # quit is stop something
 
+#and score is a variable and  has a number the number is 0
 score = 0    
 variable = input("how many planets in the soler sistem?")
 variable1 = 8
