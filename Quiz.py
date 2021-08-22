@@ -1,4 +1,5 @@
 import time
+#import is a library is called
 print("my name is Abdullahi.\nI use python to write it.\nwelcome to use it")
 
 quiz = input("do you want to play?").lower()
@@ -68,7 +69,7 @@ else:
 
 shop = input("you want milk?")
 shoping = "yes"
-# if is
+# if is a first
 if shop == shoping:
     score = score + 1
     print("you correct")
