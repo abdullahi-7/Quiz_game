@@ -93,7 +93,7 @@ pen = input("itis cluody today?").capitalize()
 # capitalize a the first letter have a big letter
 pens = False
 # False is a boolean and no
-if pen =! pens:
+if pen != pens:
     print("incorrect")
 else:
     print("correct")
