@@ -35,7 +35,7 @@ if question == answer:
 else:
     print("wrong")    
 question1 = input("Three take away one?\nTwo or one ").lower()
-answer1 = "no"
+answer1 = "two"
 # answer is a variable
 if question1 == answer1:
     print("correct")
@@ -64,7 +64,7 @@ else:
 quiz5 =int(input("five take away two?"))
 quiz3 = 3
 
-if quize5 == quiz3:
+if quiz5 == quiz3:
     score =+ 1
     print("correct")
 else:
